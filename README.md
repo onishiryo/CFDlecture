@@ -2,6 +2,7 @@
 
 ## 1D advection-diffusion eq.
 - 1d-adv-diff.ipynb
+
 Code created by ChatGPT 4o with the following prompt:
 - Please generate a python code to solve a one-dimensional advection-diffusion equation of T, a function of t (time) and x.
 - The code should use the Euler scheme for time advancement and second-order central difference schemes for advection and pressure terms.
