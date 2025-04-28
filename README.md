@@ -1,5 +1,15 @@
 # sample programs for CFDlecture
-2D channel flow for CFD lecture
+
+## 1D advection-diffusion eq.
+Code created by ChatGPT 4o with the following prompt:
+- Please generate a python code to solve a one-dimensional advection-diffusion equation of T, a function of t (time) and x.
+- The code should use the Euler scheme for time advancement and second-order central difference schemes for advection and pressure terms.
+- Show temporal advancement of x profile of T with analytical solutions.
+
+Code modified by Ryo Onishi
+1. 1d-adv-diff.ipynb
+
+## 2D channel flow for CFD lecture
 
 Code created by ChatGPT 4o with the following prompt:
 - Please generate a 2dimensional channel flow simulation code in Python.
