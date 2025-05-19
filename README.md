@@ -32,10 +32,12 @@ Code debugged and modified by Ryo Onishi
 
 ## Linear and non-linear regressions 
 - linear_regression_and_nonlinear_regression.ipynb
+
 created by Takuya Takase
 
 ## 1D diffusion eq. solved by PINN
 - 1D-diffusion_PINN.ipynb
+
 created by Keigo Hirasawa
 
 
